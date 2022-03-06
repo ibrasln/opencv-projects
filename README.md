@@ -1,2 +1,2 @@
 # opencv-projects
-These are easy projects.
+These are some easy OpenCV projects.
